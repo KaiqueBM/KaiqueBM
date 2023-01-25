@@ -4,9 +4,7 @@
 
 -   **22 anos**
 -   **Graduado em Ciência da Computação**
--   **Estágiando na OLX Brasil**
--   **Desenvolvedor web full stack**
--   **Criador de conteúdo**
+-   **Desenvolvedor front-end**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBM&layout=compact)](https://github.com/KaiqueBM/)
 
@@ -23,11 +21,13 @@
 ▪ Vue.js 
 ▪ HTML/CSS 
 ▪ Bootstrap
+▪ Tailwind
 ▪ Python
 ▪ Jupyter Notebook 
 ▪ PHP
 ▪ Wordpress 
-▪ Linguagem C 
+▪ C
+▪ C#
 ▪ Java 
 ▪ Android Studio (XML e Kotlin)
 ▪ Banco de Dados Relacional (MySQL e Oracle)
