@@ -10,6 +10,8 @@
 -   **E-mail para contato: Kaiquemirandacp@gmail.com**
 -   **Portfolio: <a href="https://kaiquemirandadev.netlify.app/">https://kaiquemirandadev.netlify.app/</a>**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBM&layout=compact)](https://github.com/KaiqueBM/)
+
 ## 🚀 Skills de tecnologias front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,styledcomponents,sass,jquery)](https://skillicons.dev)
 
