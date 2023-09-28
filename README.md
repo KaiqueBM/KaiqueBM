@@ -3,7 +3,7 @@
 </h2>
 
 <p align="justify">
-<b>Desenvolvedor Front end</b> com experiência em React.js, JavaScript, TypeScript, Styled Components, Tailwind CSS, Bootstrap e consumo de APIs REST. Também possuo experiência com PHP e Wordpress e na parte do Back end utilizando Node.js e C#. Busco desafios visando desenvolvimento profissional, apaixonado em criar novas soluções com o uso da tecnologia. Formado em Ciência da Computação.</p>
+<b>Desenvolvedor de Software</b> com experiência no Front end com React.js, JavaScript, TypeScript, Styled Components, Tailwind CSS, Bootstrap e consumo de APIs REST. Também possuo experiência no Back end utilizando Node.js, C# e Java. Busco desafios visando desenvolvimento profissional, apaixonado em criar novas soluções com o uso da tecnologia. Formado em Ciência da Computação.</p>
 
 -   **23 anos**
 -   **Graduado em Ciência da Computação**
