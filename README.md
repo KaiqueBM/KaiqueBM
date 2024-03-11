@@ -3,9 +3,9 @@
 </h2>
 
 <p align="justify">
-<b>Desenvolvedor de Software</b> com experiência no Front end com React.js, JavaScript, TypeScript, Styled Components, Tailwind CSS, Bootstrap e consumo de APIs REST. Também possuo experiência no Back end utilizando Node.js, C# e Java. Busco desafios visando desenvolvimento profissional, apaixonado em criar novas soluções com o uso da tecnologia. Formado em Ciência da Computação.</p>
+Atualmente sou <b>Engenheiro de Dados</b> onde trabalho em tratamento estatístico de dados, data mining e desenvolvimento de modelagens preditivas usando Python e SQL. Possuo também experiência no Front end com React.js, JavaScript, TypeScript, Tailwind CSS e consumo de APIs REST.Na parte do Back end já desenvolvi projetos utilizando Node.js, C# e Java. Busco desafios visando desenvolvimento profissional, apaixonado em criar novas soluções com o uso da tecnologia. Formado em Ciência da Computação.</p>
 
--   **23 anos**
+-   **24 anos**
 -   **Graduado em Ciência da Computação**
 -   **E-mail para contato: Kaiquemirandacp@gmail.com**
 -   **Portfolio: <a href="https://kaiquemirandadev.netlify.app/">https://kaiquemirandadev.netlify.app/</a>**
